@@ -1,1 +1,1 @@
-# programacion-hibrida-u1-ejercicio-2
+# Programación Híbrida - Unidad 1 - Ejercicio 2

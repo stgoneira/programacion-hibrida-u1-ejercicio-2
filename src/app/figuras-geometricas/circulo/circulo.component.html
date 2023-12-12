@@ -1,0 +1,10 @@
+<form>
+  <ion-input 
+    label="radio" 
+    [(ngModel)]="txtRadio" 
+    (ionInput)="calcularArea()" 
+    type="number" 
+    fill="outline" 
+    name="radio" />  
+</form>
+<ion-text *ngIf="areaValida()">El radio del círculo es: {{area.toFixed(2)}}</ion-text>
